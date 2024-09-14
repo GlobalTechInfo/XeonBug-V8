@@ -61,7 +61,7 @@
 <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Panel Link'
 src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 
-`AFTER YARN GET INSTALLED, REMOVE YOUR COMMAND FROM BASH FILE AND CHANGE BOT START FILE NAME FROM index.js TO main.js'
+`AFTER YARN GET INSTALLED, REMOVE YOUR COMMAND FROM BASH FILE AND CHANGE BOT START FILE NAME FROM index.js TO main.js`
  
  # I'LL ADD OTHER DEPLOYMENT METHODS LATER
 
