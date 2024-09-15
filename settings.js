@@ -10,7 +10,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
+global.ownernomer = "2348162195613"
 global.ownername = "Qasim Ali"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
@@ -32,7 +32,7 @@ global.wm = "Global Bot"
 global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [',']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
