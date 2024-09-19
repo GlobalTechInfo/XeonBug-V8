@@ -65,6 +65,9 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
  
  # I'LL ADD OTHER DEPLOYMENT METHODS LATER
 
+### TUTORIAL FOR TERMUX
+<a href="https://youtu.be/LYpyutDn_9s"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/LYpyutDn_9s" /><br>
+
 # DEPLOY IN TERMUX/UBUNTU
 ```bash
 apt update && apt upgrade -y
