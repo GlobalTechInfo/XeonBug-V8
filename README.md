@@ -1,3 +1,6 @@
+### Create Fork And Then Get Inside database, Edit Owner.json replace Your number And Commit Changes | If You Wana Add Premium Too, The Same Method Will Applies For It, Edit Owner.json. After Finishing This , Deploy And Enjoy.
+
+
 <p align="center">
 <a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/jHynY57/11993dc55c32a21a249ef1721fb66af4.jpg?style=for-the-badge&logo=github"></a>
 <p>
