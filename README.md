@@ -1,4 +1,4 @@
-### Create Fork And Then Get Inside database, Edit Owner.json replace Your number And Commit Changes | If You Wana Add Premium Too, The Same Method Will Applies For It, Premium.json. After Finishing This , Deploy And Enjoy.
+### Create Fork And Then Get Inside database, Edit Owner.json replace Your number And Commit Changes | If You Wana Add Premium Too, The Same Method Will Applies For It,Edit Premium.json. After Finishing This , Deploy And Enjoy.
 
 
 <p align="center">
