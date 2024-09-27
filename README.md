@@ -43,6 +43,19 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
+### Available Features ♦️
+### Scroll Right To Left
+| Menu ⁠➜ | Bot Settings | Group Bug | Andriod Bug | Down loads | IOS Bug | Status View | Web Bug | Fun AI | Owner Menu | Temp Ban | Data bases |
+| --------| ----------- | --------- | ----------- | -------- | ------- | ------ | ------- | --- | ----- | -------- | -------- |
+| Work ➜ |  ✅  |    ✅  |     ✅  |     ✅   |   ✅    |   ✅   |   ✅    |  ✅ |  ✅   |    ✅  |   ✅  |
+
+
+--------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
+
 # CLICK THE BUTTON TO FORK
 
 
