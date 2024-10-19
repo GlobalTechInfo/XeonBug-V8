@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
+global.ownernomer = "94759900301"
+global.ownername = "KING DAFA"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
+global.ownernumber = '94759900301'  //creator number
+global.ownername = 'KING DAFA' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
@@ -35,13 +35,13 @@ global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
-global.autoread = false //auto read messages
-global.autobio = false //auto update bio
-global.anti91 = false //auto block +91 
-global.autoswview = false //auto view status/story
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
+global.autorecordtype = true //auto typing + recording
+global.autoread = true //auto read messages
+global.autobio = true //auto update bio
+global.anti91 = true //auto block +91 
+global.autoswview = true  //auto view status/story
 
 //menu type 
 //v1 is image menu, 
