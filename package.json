@@ -17,7 +17,7 @@
     "author": "GlobalTechInfo",
     "license": "Apache-2.0",
     "dependencies": {
-        "@whiskeysockets/baileys": "^6.7.7",
+        "@whiskeysockets/baileys": "^6.7.9",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
         "awesome-phonenumber": "^5.9.0",
