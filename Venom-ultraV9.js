@@ -1,10 +1,10 @@
-//base by DGXeon
+//base by DGVenom
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @GlobalTechInfo
-//Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+//YouTube: @vortex-X-no-Name-Tech
+//Telegram: https://t.me/+bi_uGsdC46phNTFk
+//GitHub: herloverboy
+//WhatsApp: https://whatsapp.com/channel/0029Vaylj097z4keWU9KXG0N
+//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@vortex-X-no-Name-Tech
 
 const { default: makeWASocket, fetchLatestBaileysVersion, downloadContentFromMessage, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
